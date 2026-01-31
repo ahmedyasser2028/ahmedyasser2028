@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yasser Ezzat</h1>
-<h3 align="center">A passionate GIS Specialist & Web GIS Developer from Egypt 🌍</h3>
+<h3 align="center">"A result-oriented GIS Analyst and Front-end Developer with a strong foundation in Project Management (PMP candidate). Specializing in transforming complex spatial data into interactive visual stories—from Remote Sensing and Satellite Imagery analysis to dynamic Web-GIS dashboards. Combining technical precision with an eye for Cartographic design to drive data-informed decisions." from Egypt 🌍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyasser2028&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedyasser2028" /> </p>
 
@@ -26,3 +26,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyasser2028&" alt="ahmedyasser2028" /></p>
 
+<h3 align="left">Geospatial & Analysis Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-005E95?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GEE" />
+  <img src="https://img.shields.io/badge/Remote_Sensing-FFD700?style=for-the-badge&logo=data:image/png;base64,...&logoColor=black" alt="Remote Sensing" />
+  <img src="https://img.shields.io/badge/PMP_Candidate-4B0082?style=for-the-badge&logo=project-management&logoColor=white" alt="PMP" />
+</p>
