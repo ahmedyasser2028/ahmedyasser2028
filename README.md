@@ -34,3 +34,8 @@
   <img src="https://img.shields.io/badge/Remote_Sensing-FFD700?style=for-the-badge&logo=data:image/png;base64,...&logoColor=black" alt="Remote Sensing" />
   <img src="https://img.shields.io/badge/PMP_Candidate-4B0082?style=for-the-badge&logo=project-management&logoColor=white" alt="PMP" />
 </p>
+<h3 align="left">Highlighted Geospatial Projects:</h3>
+<p align="left">
+  <img src="https://your-image-link-here.com/Egypt_Dashboard.jpg" width="350" alt="Egypt Population Dashboard" />
+  <img src="https://your-image-link-here.com/Marine_Estuary.jpg" width="350" alt="Marine Estuary Analysis" />
+</p>
